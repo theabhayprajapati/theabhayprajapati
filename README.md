@@ -5,6 +5,6 @@
 theabhayprajapati/theabhayprajapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Find me around the world...
-abhay.super.site
-🐤� twitter.com/AbhayPrajapati_
+## Find me around the world:
+  - abhay.super.site
+  - 🐤� twitter.com/AbhayPrajapati_
