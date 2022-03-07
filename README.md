@@ -17,7 +17,7 @@ Checkout out my pinned project's below
 
 
 
-***[`Twitter Clone`](https://www.twitter-m-2.vercel.app):-***
+***[`Twitter Clone`](https://twitter-m-2.vercel.app/):-***
 - This projects all basic feature's of twitter,
 - you can headover on it,
 - - see user's tweets's profile, 
