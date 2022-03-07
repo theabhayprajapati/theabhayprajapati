@@ -1,8 +1,8 @@
 
 
 **Cheers! 👋 I'm Abhay, a Frontend developer and Robotics enthusiast in Mumbai, India.**
-- with software I also have great amount of interest in Hard-tech, building Gadget's, tools and alot...
-I am currently building project for resume, studying in Ruparel College, Mumbai.
+- with the software I also have a great amount of interest in Hard-tech, building Gadget's, tools and alot...
+I am currently building a project for my resume, studying at Ruparel College, Mumbai.
 
 Checkout out my pinned project's below
 
@@ -18,10 +18,10 @@ Checkout out my pinned project's below
 
 
 ***[`Twitter Clone`](https://twitter-m-2.vercel.app/):-***
-- This projects all basic feature's of twitter,
-- you can headover on it,
-- - see user's tweets's profile, 
-- - make twitter, then you can sign in and then create account easily with Google and make twitter's.
+- This projects all basic features of Twitter,
+- you can head over on it,
+- - see user's tweets' profile, 
+- - make Twitter, then you can sign in and then create an account easily with Google and make twitters.
 
 
 ***[`Weather Application`](https://weather-application-nextjs.vercel.app):-***
@@ -32,13 +32,12 @@ Checkout out my pinned project's below
 
 
 ***[`English to Wakandaian Language translator`](https://weather-application-nextjs.vercel.app):-***
-- - Here i have build own font similar to wakandian text, with the help of [`Calligraphr`](https://www.calligraphr.com/en/) .
-- - When user type in the textarea the value of text is show ther with change font.
-- .
+- - Here I have to build my own font similar to Wakandian text, with the help of [`Calligraphr`](https://www.calligraphr.com/en/).
+- - When users type in the textarea the value of the text is shown with a change font.
 
-<div style="color:green">
+<span style="color:green">
     Markdown inline css styles
-</div>
+</span>
  
 ******
 
