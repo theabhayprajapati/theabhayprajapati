@@ -5,5 +5,6 @@ I am currently building project for resume, studying in Ruparel College, Mumbai.
 
 Checkout out my pinned project's below
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theabhayprajapati)](https://github.com/anuraghazra/github-readme-stats)
 🤝Connect with me on [`Twitter`](https://www.twitter.com/AbhayPrajapati_) 
 
