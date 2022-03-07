@@ -36,6 +36,9 @@ Checkout out my pinned project's below
 - - When user type in the textarea the value of text is show ther with change font.
 - .
 
+<div style="color:green">
+    Markdown inline css styles
+</div>
  
 ******
 
