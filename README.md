@@ -24,6 +24,12 @@ Checkout out my pinned project's below
 - - make twitter, then you can sign in and then create account easily with Google and make twitter's.
 
 ******
+
+***[`Weather Application`](https://weather-application-nextjs.vercel.app):-***
+- - I have used [`WeatherApi's`](https://www.weatherapi.com/) data to fetch weather condition's in certain localities.
+- - On can user there ==current location== to find the weather condition's.
+- - Results' such as 
+- - - Air Quality, Wind Status, Humidity, UV Index can be found here.
  
 
 🤝Connect with me on [`Twitter`](https://www.twitter.com/AbhayPrajapati_) 
