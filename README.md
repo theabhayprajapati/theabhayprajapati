@@ -28,7 +28,7 @@ Checkout out my pinned project's below
 - - see user's tweets' profile, 
 - - make Twitter, then you can sign in and then create an account easily with Google and make twitters.
 
- [![Leetcode](https://img.shields.io/badge/Leetcode-2063-orange)](https://leetcode.com/abhayoprajapati/)
+ [![Leetcode](https://img.shields.io/badge/Leetcode-1,314,930-orange)](https://leetcode.com/abhayoprajapati/)
  
 ******
 
