@@ -28,18 +28,7 @@ Checkout out my pinned project's below
 - - see user's tweets' profile, 
 - - make Twitter, then you can sign in and then create an account easily with Google and make twitters.
 
-
-***[`Weather Application`](https://weather-application-nextjs.vercel.app):-***
-- - I have used [`WeatherApi's`](https://www.weatherapi.com/) data to fetch weather condition's in certain localities.
-- - On can user there ==current location== to find the weather condition's.
-- - Results' such as 
-- - - Air Quality, Wind Status, Humidity, UV Index can be found here.
-
-***[`English to Wakandaian Language translator`](https://wakanda-tan.vercel.app/):-***
-- - Here I have to build my own font similar to Wakandian text, with the help of [`Calligraphr`](https://www.calligraphr.com/en/).
-- - When users type in the textarea the value of the text is shown with a change font.
-
-
+ [![Leetcode](https://img.shields.io/badge/Leetcode-2063-orange)](https://leetcode.com/abhayoprajapati/)
  
 ******
 
