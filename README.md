@@ -22,7 +22,7 @@ Checkout out my pinned project's below
 - - It's simple, powerful.
 
 
-***[`Twitter Clone`](https://twitter-m-2.vercel.app/):-***
+***[`Twitter Clone`](https://cloneoftwitter.vercel.app/):-***
 - This projects all basic features of Twitter,
 - you can head over on it,
 - - see user's tweets' profile, 
