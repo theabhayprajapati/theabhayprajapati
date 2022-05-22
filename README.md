@@ -1,5 +1,5 @@
 
-
+![Visitor Count](https://profile-counter.glitch.me/theabhayprajapati/count.svg)
 **Cheers! 👋 I'm Abhay, a Frontend developer and Robotics enthusiast in Mumbai, India.**
 - with the software I also have a great amount of interest in Hard-tech, building Gadget's, tools and alot...
 I am currently building a project for my resume, studying at Ruparel College, Mumbai.
