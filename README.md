@@ -18,7 +18,7 @@ Checkout out my pinned project's below
   - so that developer can have good experience which working with APIs.
   - It's simple, powerful.
 
-***`timeis`***
+***[`timeis CLI`](https://npmjs.com/timeis/):-***
 made a cli using nodejs and a weather api to get the current time and date, of any location.
 
 - Main purpose was to see UTC time while devlopment.
