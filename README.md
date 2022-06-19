@@ -1,7 +1,10 @@
 
-![Visitor Count](https://profile-counter.glitch.me/theabhayprajapati/count.svg)
 
-**Hey I am self-taught dev working as remote intern at a startup as frontend dev, I am interested in Automation, Robotics, Space Xportation**
+![Visitor Count](https://profile-counter.glitch.me/theabhayprajapati/count.svg)
+![created with dalle](https://firebasestorage.googleapis.com/v0/b/insta3rdtry.appspot.com/o/posts%2FCGJTgpZBhJyzof2NxXXl%2Fimage?alt=media&token=e5b22f3c-b584-488f-a444-96f7d7ed056d "@createwithDalle")
+
+
+**Hey👋🏻, I am self-taught dev working as remote intern at a startup as frontend dev, I am interested in Automation, Robotics, Space Xportation**
 
 - with the software I also have a great amount of interest in Hard-tech, building Gadget's, tools and alot...
 I am currently building a project for my resume, studying at Ruparel College, Mumbai.
