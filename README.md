@@ -1,7 +1,8 @@
 
 
 ![Visitor Count](https://profile-counter.glitch.me/theabhayprajapati/count.svg)
-![created with dalle](https://firebasestorage.googleapis.com/v0/b/insta3rdtry.appspot.com/o/posts%2FCGJTgpZBhJyzof2NxXXl%2Fimage?alt=media&token=e5b22f3c-b584-488f-a444-96f7d7ed056d "@createwithDalle")
+
+![created with dalle](./twitter%20header%20X%20Dalle.png "@createwithDalle")
 
 
 **Hey👋🏻, I am self-taught dev working as remote intern at a startup as frontend dev, I am interested in Automation, Robotics, Space Xportation**
