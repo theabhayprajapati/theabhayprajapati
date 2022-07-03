@@ -28,7 +28,7 @@ made a cli using nodejs and a weather api to get the current time and date, of a
 - Main purpose was to see UTC time while devlopment.
 - It is hosted on [npmjs.com](https://npmjs.com/timeis)
 
- [![Leetcode](https://img.shields.io/badge/Leetcode-776,517-orange)](https://leetcode.com/abhayprajapati/)
+ [![Leetcode](https://img.shields.io/badge/Leetcode-597,440-orange)](https://leetcode.com/abhayprajapati/)
 
 ******
 
