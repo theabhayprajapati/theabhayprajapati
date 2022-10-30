@@ -1,4 +1,4 @@
-# Namaste 🫂
+# Hey! I am [Abhay](https://twitter.com/abhayprajapati_)
 <br><br>
 <a href="https://twitter.com/abhayprajapati_">
   <img align="left" alt="Abhay's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
