@@ -15,7 +15,7 @@
 <a href="https://www.coursera.org/user/5fd2346b0ff4809a30a01f0f24e52630">
   <img align="left" alt="Abhay's Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
 </a> 
-<a href="https://leetcode.com/abhayprajapati/">
+<a href="https://leetcode.com/u/abhay__prajapati">
   <img align="left" alt="Abhay's hackerrank" width="100px" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
 </a> 
 <br><br>
